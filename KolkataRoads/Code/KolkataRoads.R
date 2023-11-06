@@ -90,17 +90,17 @@ p <- Kolkata_and_adjoining_areas %>%
         plot.background = element_rect(fill = "black"),
         legend.position = c(0.1, 0.9),
         plot.caption = element_text(
-          size = 8, color = "grey60",
-          hjust = 0.1, vjust = 10
+          size = 10, color = "white",
+          hjust = 0.98, vjust = 10
         ),
         legend.background = element_rect(fill = "black"),
         legend.text = element_text(color = "white",
-                                   size = 12),
+                                   size = 10),
         legend.title = element_text(color = "white",
-                                    size = 12),
+                                    size = 10),
         plot.title = element_text(hjust = 0.5, vjust = 1, size = 25, color = "white")) +
-  labs(title = "Streets and waterways of Kolkata and adjoining areas",
-       caption = "Data Source: ")
+  labs(title = "Streets and waterways of Kolkata and surrounding areas",
+       caption = "Data Source: Map data from OpenStreetMap")
 
 
 ggsave(p,filename = "Kolkata_Roads.png",width = 22, height = 10, dpi = 600,
