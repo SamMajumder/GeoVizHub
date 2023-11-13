@@ -18,6 +18,8 @@ Sundarban Shifts is a remarkable endeavor to monitor the vegetation changes in t
 5. **GIF Creation**: Reading the NDVI images, normalize and apply a custom colormap, and add a year label to each image, creating a GIF from the sequence of images to visualize the time-lapse of NDVI values.
 6. **GIF Labeling**: Similar to the GIF creation, but adding a year label to each image in the GIF to visualize the time-lapse of NDVI values.
 
+![Sundarban shifts](https://github.com/SamMajumder/GeoVizHub/blob/main/SundarbanShifts/SundarbanShifts.gif)
+
 ## Contributing
 We welcome contributions to Sundarban Shifts! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
 
