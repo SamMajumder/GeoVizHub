@@ -49,8 +49,12 @@ Each map includes insets for smaller regions and is colored based on the proport
 
 ### Final Maps
 - Bilingual Population Map: `India_bilingual.png`
+  
 ![Bilingual population](https://github.com/SamMajumder/GeoVizHub/blob/main/IndiaTrilingual/India_bilingual.png)
+
 - Trilingual Population Map: `India_trilingual.png`
+
+![Trilingual population](https://github.com/SamMajumder/GeoVizHub/blob/main/IndiaTrilingual/India_trilingual.png)
 
 ## Data Sources
 1) **India State Boundaries shapefile** = Parliamentary Constituencies Maps are provided by Data{Meet} Community Maps Project. Its made available under the Creative Commons Attribution 2.5 India. (http://projects.datameet.org/maps/)
