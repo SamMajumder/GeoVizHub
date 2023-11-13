@@ -46,4 +46,7 @@ This project aims to analyze and visualize the distribution of certain wild sunf
 
 A visualization showing the distribution of selected sunflower species across North American ecoregions, saved as `sunflower_distribution.png`.
 
+## Final map 
+![Sunflower Distribution](https://github.com/SamMajumder/GeoVizHub/blob/main/HelianthusHabitats/sunflower_distribution.png)
+
 ```
