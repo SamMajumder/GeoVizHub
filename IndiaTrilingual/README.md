@@ -49,6 +49,7 @@ Each map includes insets for smaller regions and is colored based on the proport
 
 ### Final Maps
 - Bilingual Population Map: `India_bilingual.png`
+![Bilingual population](https://github.com/SamMajumder/GeoVizHub/blob/main/IndiaTrilingual/India_bilingual.png)
 - Trilingual Population Map: `India_trilingual.png`
 
 ## Data Sources
