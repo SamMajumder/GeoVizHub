@@ -60,10 +60,12 @@ https://www.weather.gov/gis/Counties
 2. Customize the plot with labels, legend, and title.
 
 ### Saving the Plot:
-1. Save the final plot to a file named `Temperature.png`.
+Save the final plot to a file named `Temperature.png`.
 
 ## Output
-A visualization showing the change in average temperatures across US counties from 1960 to 2022, saved as `Temperature.png`.
+A visualization showing the change in average temperatures across US counties from 1960 to 2022, saved as `Temperature.png`. 
+
+![Temperature US](https://github.com/SamMajumder/GeoVizHub/blob/main/TempDiffUS/Temperature.png)
 
 ## Custom Functions
 Custom functions are utilized for specific tasks such as extracting and exporting layers from the netCDF file, extracting values from raster data at specified point locations, and processing the data for visualization.
