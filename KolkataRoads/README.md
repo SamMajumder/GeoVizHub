@@ -43,7 +43,11 @@ Includes a caption to cite OpenStreetMap as the data source.
 
 ### 8) Saving the Plot:
 
-Saves the visualization as a high-resolution PNG file with custom dimensions and background settings.
+Saves the visualization as a high-resolution PNG file with custom dimensions and background settings. 
+
+### Final map 
+
+![Kolkata Roads](https://github.com/SamMajumder/GeoVizHub/blob/main/KolkataRoads/Kolkata_Roads.png)
 
 ## Data Sources
 OpenStreetMap data for Kolkata's boundaries, streets, and waterways.
