@@ -42,7 +42,9 @@ This project generates a visualization of the rivers in West Bengal, India, usin
 ## 8. Saving the Plot:
 - Saves the generated plot to a PNG file named `WestBengal_Rivers.png` with specified dimensions and resolution.
 
-The script essentially loads necessary libraries and datasets, processes the geospatial data to filter and rescale river information, prepares and generates a visualization, and finally saves the visualization to a PNG file.
+The script essentially loads necessary libraries and datasets, processes the geospatial data to filter and rescale river information, prepares and generates a visualization, and finally saves the visualization to a PNG file. 
+
+![Rivers of WestBengal](https://github.com/SamMajumder/GeoVizHub/blob/main/Rivers_of_WestBengal/WestBengal_Rivers.png)
 
 
 ## Data Sources
