@@ -48,5 +48,9 @@ The project utilizes the following R packages:
 - The composed image is saved as the final output.
 
 ## Output
-The output of the project is a detailed and visually appealing map of North American ecoregions, presented in a 3D perspective, along with a corresponding legend.
+The output of the project is a detailed and visually appealing map of North American ecoregions, presented in a 3D perspective, along with a corresponding legend. 
+
+## Final Ecoregion Map
+![North American Ecoregion Map](https://github.com/SamMajumder/GeoVizHub/raw/main/TopoEcoMap/final-ecoregion-map.png)
+
 
