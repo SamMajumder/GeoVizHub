@@ -33,6 +33,8 @@ To run this project, the following R libraries are needed:
 ## Saving the Final Output
 - The final map is saved as a high-resolution PNG file, ensuring that all details are visible and clear.
 
+![map](https://github.com/SamMajumder/GeoVizHub/blob/main/GiessenRoads/Code/Giessen_Roads.png)
+
 ## Usage
 To run this project, simply load the R script and execute. Ensure all required libraries are installed.
 
