@@ -37,6 +37,4 @@ To run this project, the following R libraries are needed:
 To run this project, simply load the R script and execute. Ensure all required libraries are installed.
 
 ## Output
-The output of this project is a detailed map titled "Streets and waterways of Giessen", visualizing the city's layout in terms of its roads and water bodies. 
-
-![Image](https://github.com/SamMajumder/GeoVizHub/blob/main/GiessenRoads/Code/Giessen_Roads.png)
+The output of this project is a detailed map titled "Streets and waterways of Giessen", visualizing the city's layout in terms of its roads and water bodies.

@@ -42,7 +42,21 @@ water <- osmdata::getbb('Giessen Germany') %>%
                   value=c('water')) %>%
             osmdata::osmdata_sf() %>% .$osm_polygons
 
+# Define a circular window
+center <- st_centroid(Giessen_boundaries) # center of the circle
+radius <- 5000 # define the radius
+circle_window <- st_buffer(center, dist = radius) # create the circle
 
+# Function to clip data to a circle
+clip_to_circle <- function(data) {
+  st_intersection(data, circle_window)
+}
+
+# Clip each dataset
+Giessen_boundaries <- clip_to_circle(Giessen_boundaries)
+Streets_Giessen <- clip_to_circle(Streets_Giessen)
+Small_streets_Giessen <- clip_to_circle(Small_streets_Giessen)
+water <- clip_to_circle(water)
 
 p <- Giessen_boundaries %>%
   ggplot() +
