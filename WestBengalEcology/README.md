@@ -34,5 +34,5 @@ The script produces the following files:
 - `Plot_title.png`: A blank ggplot title plot.
 - `WestBengal_final.png`: The final composite image including the 3D render and title plot.
 
-[https://github.com/SamMajumder/GeoVizHub/blob/main/WestBengalEcology/WestBengal_final.png]
+(https://github.com/SamMajumder/GeoVizHub/blob/main/WestBengalEcology/WestBengal_final.png)
 
