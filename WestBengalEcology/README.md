@@ -34,6 +34,5 @@ The script produces the following files:
 - `Plot_title.png`: A blank ggplot title plot.
 - `WestBengal_final.png`: The final composite image including the 3D render and title plot.
 
-## Usage
-To run the script, simply load it in an R environment and execute. Ensure that all the required packages are installed and that the necessary data files are located in the specified directories.
+[https://github.com/SamMajumder/GeoVizHub/blob/main/WestBengalEcology/WestBengal_final.png]
 
